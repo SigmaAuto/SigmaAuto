@@ -423,7 +423,7 @@ p {
 -------------------------- */
 
 .wellcome_area {
-    background-image: url(img/bg-img/SigmaAutoCars.jpg);
+    background-image: url(img/bg-img/sigmaAutoCars.jpg);
     height: 900px;
     position: relative;
     z-index: 1;
